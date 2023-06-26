@@ -1,5 +1,8 @@
 # College-website-using-html-css-javascript
 
+
+Demo of university website: http://demos1.infovillage.net/bhavana/frontend/CollegeWeb/index.html
+
 Welcome to our college website, where we combine the power of HTML, CSS, and JavaScript to provide an immersive and interactive experience for our visitors. This dynamic website showcases our institution, academic programs, campus life, and much more.
 
 Engaging User Interface:
